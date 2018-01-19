@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1510749204 source:e:\#2parcial_practica\2parcial_practica\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1496883878 e:\#2parcial_practica\2parcial_practica\arraylist.h
+
+1511304716 source:e:\#2parcial_practica\2parcial_practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	<string.h>
+
