@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1510749204 source:e:\#2doparcial\2p_castrelo.francisco_1a\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1496883878 e:\#2doparcial\2p_castrelo.francisco_1a\arraylist.h
+
+1511362918 source:e:\#2doparcial\2p_castrelo.francisco_1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	<string.h>
+	"lib.h"
+
+1511360142 source:e:\#2doparcial\2p_castrelo.francisco_1a\lib.c
+	"lib.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511360152 e:\#2doparcial\2p_castrelo.francisco_1a\lib.h
+

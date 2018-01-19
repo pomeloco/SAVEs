@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1512562007 source:c:\users\alumno\desktop\nueva carpeta\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1512562240 c:\users\alumno\desktop\nueva carpeta\arraylist.h
+
+1512569091 source:c:\users\alumno\desktop\nueva carpeta\rspp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1512569886 source:c:\users\alumno\desktop\nueva carpeta\rspp\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.c"
+
+1512564480 c:\users\alumno\desktop\nueva carpeta\rspp\arraylist.h
+
+1512569899 c:\users\alumno\desktop\nueva carpeta\rspp\funciones.c
+	"funciones.h"
+	"arraylist.h"
+	<stdio.h>
+
+1512567982 c:\users\alumno\desktop\nueva carpeta\rspp\funciones.h
+
+1512566133 c:\users\alumno\desktop\nueva carpeta\rspp\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.c"
+
+1512569888 source:e:\#2doparcial\nueva carpeta\rspp\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.c"
+
+1512564482 e:\#2doparcial\nueva carpeta\rspp\arraylist.h
+
+1512569936 e:\#2doparcial\nueva carpeta\rspp\funciones.c
+	"funciones.h"
+	"arraylist.h"
+	<stdio.h>
+
+1512567984 e:\#2doparcial\nueva carpeta\rspp\funciones.h
+
+1512569092 source:e:\#2doparcial\nueva carpeta\rspp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"funciones.h"
+
