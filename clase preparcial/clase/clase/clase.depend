@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1525357478 source:c:\users\alumno\desktop\amb-estructuragenerica-master\estructuragenerica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"EstructuraGenerica.h"
+
+1525356567 c:\users\alumno\desktop\amb-estructuragenerica-master\estructuragenerica.h
+
+1525356591 source:d:\clase\clase\main.c
+	<stdio.h>
+	<stdlib.h>
+	<c://Users/alumno/Desktop/AMB-EstructuraGenerica-master/EstructuraGenerica.h>
+
