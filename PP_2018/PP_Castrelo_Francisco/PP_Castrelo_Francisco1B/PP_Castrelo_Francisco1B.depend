@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1525964689 source:d:\pp_castrelo_francisco\pp_castrelo_francisco1b\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
+1525964597 d:\pp_castrelo_francisco\pp_castrelo_francisco1b\lib.h
+
+1525964597 source:d:\pp_castrelo_francisco\pp_castrelo_francisco1b\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
